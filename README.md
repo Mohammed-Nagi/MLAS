@@ -12,8 +12,8 @@ The core objective is to predict user preferences via **Regularised Matrix Facto
 * **Latent Space Analysis:** The model learns semantically meaningful embeddings that reveal genre structures (e.g., "Children" vs. "Horror") purely from interaction data.
 
 ## Repository Structure
-* [cite_start]`Baseline_Implementation.ipynb`: A naive Python implementation demonstrating the computational bottlenecks of standard iterative approaches at scale[cite: 121, 128].
-* [cite_start]`Optimised_Implementation.ipynb`: The high-performance solution featuring Numba JIT compilation, vectorised residuals, and parallelised ALS updates[cite: 121].
+* `Baseline_Implementation.ipynb`: A naive Python implementation demonstrating the computational bottlenecks of standard iterative approaches at scale.
+* `Optimised_Implementation.ipynb`: The high-performance solution featuring Numba JIT compilation, vectorised residuals, and parallelised ALS updates.
 * `esameldin_AMLAS_draft.pdf`: A detailed technical report documenting the engineering decisions, mathematical framework, and performance evaluation.
 
 ## Performance
