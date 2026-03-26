@@ -17,7 +17,7 @@ To ensure the successful execution of the provided notebook, the data files and 
 
 ## Performance Benchmarks
 
-The implementation was evaluated on a consumer-grade workstation (Intel Core i7-14650HX, 16GB RAM). By transitioning to a hardware-aware parallel engine, the system achieves a cumulative **8,767x speedup**.
+The implementation was evaluated on a consumer-grade workstation (Intel Core i7-14650HX, 16GB RAM).
 
 
 
